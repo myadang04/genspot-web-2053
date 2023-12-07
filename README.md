@@ -1,6 +1,6 @@
 # GenSpot Web Application
 
-## Member:
+## Members
 Mya Dang, Alexa Sitterly, Jeremiah Mathew
 
 ## Frameworks
